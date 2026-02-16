@@ -28,7 +28,3 @@ I’m a passionate web developer who loves building clean, scalable, and user-fr
 
 **Databases & Tools**
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-![Your GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=DessieRose&show_icons=true&theme=radical)
