@@ -1,4 +1,4 @@
-# Hi there, my name is Nathalie Rosenkvist! 👋
+# Hi there, I'm Nathalie Rosenkvist! 👋
 <!--
 **DessieRose/DessieRose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -42,5 +42,5 @@ I’m a passionate web developer who loves building clean, scalable, and user-fr
 ---
 
 ### 📊 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DessieRose&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=DessieRose&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DessieRose&layout=compact&theme=radical)
