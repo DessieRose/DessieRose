@@ -14,21 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Full-Stack Developer
-
 I’m a passionate web developer who loves building clean, scalable, and user-friendly applications. I'm all about solving problems with code.
 
----
-
-### 🚀 Quick Bits
-- 🔭 I’m currently working on **Robo-clicker**
-- 🌱 I’m currently learning **Laravel & C#**
-- 📫 How to reach me: **[Link to LinkedIn](https://www.linkedin.com/in/nathalie-rosenkvist/)**
-- ⚡ Fun fact: **I like plaing games**
-
----
-
-### 💻 Tech Stack
+- 🔭 I’m currently working on [Robo-clicker](https://github.com/DessieRose/Robo-clicker) a mobile game where you fight robots.
+- 🤓 I’m currently learning Laravel & C#
+- ⚡ Fun fact: I have studied 3D visualtisation & graphic design
 
 **Frontend**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
