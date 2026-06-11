@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 I’m a passionate web developer who loves building clean, scalable, and user-friendly applications. I'm all about solving problems with code.
 
 - 🔭 I’m currently working on [Robo-clicker](https://github.com/DessieRose/Robo-clicker) a mobile game where you fight robots.
-- 🤓 I’m currently learning Laravel & C#
-- ⚡ Fun fact: I have studied 3D visualtisation and worked with graphic design
+- 🤓 I’m currently learning Linux in my spare time.
+- ⚡ Fun fact: I have worked with 3D visualization, graphic design and marketing.
 
 ### 🛠️ Tech Stack
 
