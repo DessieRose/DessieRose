@@ -27,7 +27,7 @@ I’m a passionate web developer who loves building clean, scalable, and user-fr
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
 ![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
 
 **Backend**
